@@ -16,8 +16,3 @@ The equivalent Fahrenheit temperature is:
 Don't worry if your program says that -10.5 Celsius is 13.09999... in Fahrenheit instead of 13.1. Mathematically speaking, 13.1 and 13.09999... are equivalent. On a computer, however, we can't store an infinite number of 9s, so we end up with two very slightly different values, but the auto-tester takes that into account.
 
 The file must be named: temp_convert.py
-
-STUDENT
-Stanley Mpoyi
-AUTOGRADER SCORE
-3.0 / 20.0
